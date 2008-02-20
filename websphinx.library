@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <library>
   <!--JBuilder Library Definition File-->
-  <fullname>Google</fullname>
+  <fullname>websphinx</fullname>
   <class>
-    <path>[lib/googleapi.jar]</path>
+    <path>[lib/websphinx.jar]</path>
   </class>
-  <lastmodsaved>1203502199999</lastmodsaved>
+  <lastmodsaved>1203502248804</lastmodsaved>
 </library>
