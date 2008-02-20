@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <!--JBuilder Library Definition File-->
+  <fullname>Google</fullname>
+  <class>
+    <path>[lib/googleapi.jar]</path>
+  </class>
+  <lastmodsaved>1203498217490</lastmodsaved>
+</library>
